@@ -1,2 +1,2 @@
 # mystore
-for learning
+后续期待中...
